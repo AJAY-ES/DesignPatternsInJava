@@ -1,0 +1,20 @@
+Hey!!Ajay Here
+We are going to create a demo project which uses Creational design patterns wih help of JAVA.
+ 
+->Abstract Factory
+->Builder
+->Factory Method
+->Object Pool
+->Prototype
+->Singleton
+
+Note:
+-These order may differ in commits and our main target is get hold on design patterns using JAVA.   
+-Wait till "complete" flag seen below get true(true means we have completed this part.) 
+
+
+
+
+
+
+ complete=false

@@ -1,0 +1,22 @@
+Hey!!Ajay Here
+We are going to create a demo project which uses Structural design patterns wih help of JAVA.
+  
+->Adapter 
+->Bridge 
+->Composite 
+->Decorator 
+->Facade 
+->Flyweight 
+->Private Class Data 
+->Proxy
+
+Note:
+-These order may differ in commits and our main target is get hold on design patterns using JAVA.   
+-Wait till "complete" flag seen below get true(true means we have completed this part.) 
+
+
+
+
+
+
+ complete=false
